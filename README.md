@@ -19,3 +19,7 @@ Now further along with the information gathering we found a wider IP address ran
 dmitry also identified a number of email addresses belonging to yahoo.com. this can be useful for an attacker crafting phishing attacks:
 
 <img width="287" height="306" alt="email addresses" src="https://github.com/user-attachments/assets/480b23de-a8ec-42f0-83f8-a693fa5fb348" />
+
+dmitry also checks for open ports on servers. We can see here that yahoo.com has an open web service:
+
+<img width="563" height="188" alt="open web service" src="https://github.com/user-attachments/assets/3e56b3fb-cb2e-4b1c-8d86-cf1bf048bd3c" />
