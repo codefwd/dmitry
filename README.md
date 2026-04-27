@@ -24,7 +24,7 @@ dmitry also checks for open ports on servers. We can see here that yahoo.com has
 
 <img width="563" height="188" alt="open web service" src="https://github.com/user-attachments/assets/3e56b3fb-cb2e-4b1c-8d86-cf1bf048bd3c" />
 
-## Second: public internet registration information of the yahoo.com website
+## Second: Port scan of my Virtual Machine metasploitable
 
 We can use dmitry for just Port scanning. I have a virtual machine running Metasploitable. I'll check the ports on my VM using a simple linux command with the minus P switch
 
