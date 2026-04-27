@@ -15,3 +15,7 @@ dmitry shows the Registration information of yahoo.com is in the internet addres
 Now further along with the information gathering we found a wider IP address range for a series of subdomains:
 
 <img width="472" height="430" alt="yahoo subdomains" src="https://github.com/user-attachments/assets/672cdcc3-abef-4253-86c4-ce1aa2f90f26" />
+
+dmitry also identified a number of email addresses belonging to yahoo.com. this can be useful for an attacker crafting phishing attacks:
+
+<img width="287" height="306" alt="email addresses" src="https://github.com/user-attachments/assets/480b23de-a8ec-42f0-83f8-a693fa5fb348" />
