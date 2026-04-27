@@ -25,3 +25,14 @@ dmitry also checks for open ports on servers. We can see here that yahoo.com has
 <img width="563" height="188" alt="open web service" src="https://github.com/user-attachments/assets/3e56b3fb-cb2e-4b1c-8d86-cf1bf048bd3c" />
 
 ## Second: public internet registration information of the yahoo.com website
+
+We can use dmitry for just Port scanning. I have a virtual machine running Metasploitable. I'll check the ports on my VM using a simple linux command with the minus P switch
+
+#$dmitry -pb 10.0.2.5
+
+I also used the b switch to see what version of software is used for the port service. dmitry reports back on the most commonly used 150 ports.
+
+It gives me enough information to even show the software used 
+
+For example the FTP Port 21 shows that the software used is ftpd 2.3.4 
+
