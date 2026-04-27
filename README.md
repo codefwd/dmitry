@@ -23,3 +23,5 @@ dmitry also identified a number of email addresses belonging to yahoo.com. this 
 dmitry also checks for open ports on servers. We can see here that yahoo.com has an open web service:
 
 <img width="563" height="188" alt="open web service" src="https://github.com/user-attachments/assets/3e56b3fb-cb2e-4b1c-8d86-cf1bf048bd3c" />
+
+## Second: public internet registration information of the yahoo.com website
