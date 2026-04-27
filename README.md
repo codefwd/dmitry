@@ -28,11 +28,16 @@ dmitry also checks for open ports on servers. We can see here that yahoo.com has
 
 We can use dmitry for just Port scanning. I have a virtual machine running Metasploitable. I'll check the ports on my VM using a simple linux command with the minus P switch
 
-#$dmitry -pb 10.0.2.5
+$dmitry -pb 10.0.2.5
 
 I also used the b switch to see what version of software is used for the port service. dmitry reports back on the most commonly used 150 ports.
+
+<img width="571" height="577" alt="port scanning my VM metasploitable" src="https://github.com/user-attachments/assets/b37e51a0-d973-4c53-807b-a9acc40a218a" />
 
 It gives me enough information to even show the software used 
 
 For example the FTP Port 21 shows that the software used is ftpd 2.3.4 
+
+## Conclusion:
+dimitry can be used to do a whois lookup of a host, identify subdomains and scan a target looking for open ports. dmitry is a great tool that helps determine what systems are publicly visible on the internet so defenders can reduce exposure.
 
